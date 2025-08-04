@@ -44,4 +44,4 @@ async def userinfo(interaction: discord.Interaction, user: discord.Member = None
     embed.add_field(name="ID", value=user.id, inline=True)
     await interaction.response.send_message(embed=embed)
 
-bot.run(1184777708341829705)
+bot.run(747d3f874e3aa9e897e1b21d42a286e7c7f4a523d47f86f2f8b9c0b309458fda)
